@@ -8,6 +8,7 @@ class Lam:
     def __init__(self):
         self.name = 'Ahlam'
         self.linkedin = '/ahlamyusuf/'
+        self.website = 'ahlam.fyi'
         self.code = {
             'Frontend': ['HTML', 'CSS', 'JavaScript', 'React'],
             'Backend': ['Python', 'PHP', 'Flask', 'Django', 'R'],
